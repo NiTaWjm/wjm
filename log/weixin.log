@@ -8,3 +8,4 @@
 [2017-07-05 16:11:23] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/index.php/weixin/index","Query":null,"Protocal":"HTTP/1.1","Content":""} []
 [2017-07-05 16:14:14] easywechat.DEBUG: Current config: {"debug":true,"app_id":"***197ed","secret":"***8a061","token":"game","aes_key":"aAI1q7qKkJLqLxTJenXf9uvxVIhQEaUaRsuwcyrHOVt","log":{"level":"debug","file":"/opt/lampp/htdocs/tp/log/weixin.log"}} []
 [2017-07-05 16:14:14] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/index.php/weixin/index","Query":null,"Protocal":"HTTP/1.1","Content":""} []
+made caocao
