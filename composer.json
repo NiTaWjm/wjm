@@ -1,0 +1,16 @@
+{
+  "name" : "IMOOC PHP",
+  "desc" : "PHP GUNAJIA",
+  "type" : "FRamework",
+  "keywords" :[
+    "PHP", "PHP Framework"
+  ],
+  "require" : {
+    "php" : ">=5.3.0",
+    "filp/whoops" : "*",
+    "symfony/var-dumper" : "*",
+    "catfan/medoo":"*",
+    "duncan3dc/blade": "^3.4",
+    "overtrue/wechat": "~3.1"
+  }
+}

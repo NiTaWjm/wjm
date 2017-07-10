@@ -1,0 +1,2 @@
+[2017-07-05 16:34:54] easywechat.DEBUG: Current config: {"debug":true,"app_id":"***49a91","secret":"***8a061","token":"link","aes_key":"d0VEx1hvK9BwpB0sRo0OlWq9Y8Z5IfCGE8wMPFqL99q","log":{"level":"debug","file":"/opt/lampp/htdocs/tp/log/wechat.log"}} []
+[2017-07-05 16:34:54] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/index.php/weixin/index","Query":null,"Protocal":"HTTP/1.1","Content":""} []
