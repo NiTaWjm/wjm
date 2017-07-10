@@ -10,7 +10,7 @@
     "filp/whoops" : "*",
     "symfony/var-dumper" : "*",
     "catfan/medoo":"*",
-    "duncan3dc/blade": "^3.4",
+    "duncan3dc/blade": "^3.4"
 
   }
 }
